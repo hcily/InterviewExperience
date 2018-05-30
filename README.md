@@ -46,7 +46,7 @@ https://blog.csdn.net/yulyu/article/details/60331803
 Volley：默认开启4个网络请求线程，返回的结果存储在内存中（大文件传输会长时间占用线程，并且可能由于内存占用过多导致OOM）
 
 okhttp3 ：https://yq.aliyun.com/articles/78104?t=t1
-              : https://blog.csdn.net/mwq384807683/article/details/71173442?locationNum=8&fps=1
+        : https://blog.csdn.net/mwq384807683/article/details/71173442?locationNum=8&fps=1
 
 okio：
 
@@ -127,13 +127,13 @@ http://blog.csdn.net/qq_27540131/article/details/74938234
 
 线程状态转换：https://juejin.im/post/5ae6cf7a518825670960fcc2
 
-锁？https://blog.csdn.net/zqz_zqz/article/details/70233767
+锁？  https://blog.csdn.net/zqz_zqz/article/details/70233767
          https://blog.csdn.net/yanyan19880509/article/details/52345422
          https://www.cnblogs.com/-new/p/7256297.html
 Semaphore：    https://blog.csdn.net/qq_19431333/article/details/70212663
 抽象的队列式的同步器 AQS：https://www.cnblogs.com/daydaynobug/p/6752837.html
 Exchanger的工作原理及实例：https://blog.csdn.net/carson0408/article/details/79477280
-                                                                                        http://ifeve.com/concurrency-exchanger/    
+                         http://ifeve.com/concurrency-exchanger/    
 CountDownLatch解析 ： https://blog.csdn.net/yanyan19880509/article/details/52349056
 CyclicBarrier：https://www.jianshu.com/p/ccf218dfcfa6
 
@@ -141,7 +141,7 @@ CyclicBarrier：https://www.jianshu.com/p/ccf218dfcfa6
 classloader？https://blog.csdn.net/briblue/article/details/54973413
 
 深入剖析volatile关键字 : https://www.cnblogs.com/dolphin0520/p/3920373.html
-                                            http://www.iteye.com/topic/652440
+                        http://www.iteye.com/topic/652440
 
 彻底理解synchronized：https://juejin.im/post/5ae6dc04f265da0ba351d3ff
 锁膨胀：https://www.cnblogs.com/dsj2016/p/5714921.html
@@ -165,7 +165,7 @@ https://github.com/davideuler/architecture.of.internet-product
           不同线程间怎么通过handler发送消息
           线程间的通信
           Android屏幕的刷新机制（16ms，绘制）：https://www.cnblogs.com/tiger-wang-ms/p/6592189.html
-                                          performTraversals :  https://www.jianshu.com/p/a65861e946cb
+                                            performTraversals :  https://www.jianshu.com/p/a65861e946cb
           Vsync垂直信号\Choreographer
      循环调用requestLayout或者invalidate，每次调用都会触发onMeasure\onLayout或者onDraw吗？
      Android的anr的内部原理：https://www.cnblogs.com/android-blogs/p/5718302.html
@@ -182,13 +182,13 @@ https://github.com/davideuler/architecture.of.internet-product
            手势分发：https://www.cnblogs.com/Jackwen/p/5239035.html
            快速排序：
            provider怎样共享数据：https://blog.csdn.net/luoshengyang/article/details/6946067
-                                             ：https://blog.csdn.net/u011240877/article/details/72848608
+                              ：https://blog.csdn.net/u011240877/article/details/72848608
 
 一面：框架设计，怎么去封装图片库，能用到什么设计模式；
            线程池实现原理（核心线程数，线程最大数）：
            SurfaceView和TextureView的区别：（SurfaceView源码浅析）https://blog.csdn.net/luoshengyang/article/details/8661317/
-                                                                        https://www.cnblogs.com/wytiger/p/5693569.html
-                                                                   （对比） https://blog.csdn.net/hejjunlin/article/details/58582919
+                                                                https://www.cnblogs.com/wytiger/p/5693569.html
+                                                       （对比） https://blog.csdn.net/hejjunlin/article/details/58582919
                                                                     
 
 二面：优势是什么，缺点是什么，职业规划是什么，为什么离开现在的公司
@@ -202,7 +202,7 @@ https://github.com/davideuler/architecture.of.internet-product
 
 三面：Android基础
            activity的启动模式及应用场景：https://www.cnblogs.com/claireyuancy/p/7387696.html
-                                                        ：https://blog.csdn.net/justinnick/article/details/52530279
+                                     ：https://blog.csdn.net/justinnick/article/details/52530279
            谈谈对框架的理解
 
 ### 宝宝树
@@ -213,8 +213,8 @@ https://github.com/davideuler/architecture.of.internet-product
            StringBuilder和StringBuffer的区别，实现原理：
                                               String的深入解析：https://www.cnblogs.com/xiaoxi/p/6036701.html
            Parcelable和Serializable浅析：https://blog.csdn.net/javazejian/article/details/52665164
-                                                                 :  https://www.cnblogs.com/redcreen/articles/1955307.html
-                                                                ：https://blog.csdn.net/caowenbin/article/details/6532217
+                                       :  https://www.cnblogs.com/redcreen/articles/1955307.html
+                                       ：https://blog.csdn.net/caowenbin/article/details/6532217
             Java transient使用（ 涉及Externalizable）： https://www.cnblogs.com/lanxuezaipiao/p/3369962.html
 
 一面：handler的实现原理
@@ -231,7 +231,7 @@ https://github.com/davideuler/architecture.of.internet-product
 电话面试：工厂模式
                   了解的一些最新的技术
                   热修复 : https://www.cnblogs.com/popfisher/p/8543973.html
-                              : 方法修复（native、java hoke）、类修复（dex替换）
+                         : 方法修复（native、java hoke）、类修复（dex替换）
                   Android P
                   在项目中遇到最印象深刻的事情（技术难点）
                   
@@ -301,7 +301,7 @@ activity的生命周期，一个activity启动另外一个activity，第一个ac
 一面：Java虚拟机内存模型
            Java的GC机制
            手写全排列算法（递归或者迭代）： https://blog.csdn.net/summerxiachen/article/details/60579623
-                                                                     https://blog.csdn.net/jacky_chenjp/article/details/66477538
+                                         https://blog.csdn.net/jacky_chenjp/article/details/66477538
 
 二面：
           okhttp的gzip功能
