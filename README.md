@@ -13,7 +13,7 @@ https://juejin.im/post/587dbaf9570c3522010e400e?utm_source=wechat
 
 ### 陌陌—架构组
 
-数据库：怎样快速插入1万条数据，看过GreenDao的源码吗
+##### 数据库：怎样快速插入1万条数据，看过GreenDao的源码吗
 
 加快数据库存储
 一次插入多条，显示开启事务，关闭读、写同步，执行准备（类似存储过程，Stored Procedure），索引
@@ -28,7 +28,7 @@ https://blog.csdn.net/zhangjiaofa/article/details/49134341
 对象关系映射（英语：(Object Relational Mapping，简称ORM，或O/RM，或O/R mapping）
 
 
-图片框架：Universal ImageLoader（看过源码吗）、glide（为什么用它，好处在哪里）、fresco
+##### 图片框架：Universal ImageLoader（看过源码吗）、glide（为什么用它，好处在哪里）、fresco
 
 UIL源码解析：下载进度、缓存策略、下载、显示、线程池
 https://blog.csdn.net/maplejaw_/article/details/51684130
@@ -41,7 +41,7 @@ Glide源码：
 https://blog.csdn.net/yulyu/article/details/60331803
 
 
-网络框架：volley（为什么不适用于大文件传输）、okhttp3（为什么用它，好在哪里，看过源码吗）
+##### 网络框架：volley（为什么不适用于大文件传输）、okhttp3（为什么用它，好在哪里，看过源码吗）
 
 Volley：默认开启4个网络请求线程，返回的结果存储在内存中（大文件传输会长时间占用线程，并且可能由于内存占用过多导致OOM）
 
@@ -64,7 +64,7 @@ okhttp的请求队列：SynchronousQueue :
 https://blog.csdn.net/mwq384807683/article/details/70795881
 
 
-如何定位一个不能复现的anr
+##### 如何定位一个不能复现的anr
 
 traces.txt文件  https://www.jianshu.com/p/f406d535a8bc
 https://blog.csdn.net/jiangguangchao/article/details/54908477
@@ -116,12 +116,12 @@ https://blog.csdn.net/chenkai19920410/article/details/52515771
 
 ThreadLocal的内部机制？
 
-App安装、启动流程？
+##### App安装、启动流程？
 Android deeplink内部实现机制？
 http://blog.csdn.net/qq_27540131/article/details/74938234
 
 
-Java线程，并发编程？
+##### Java线程，并发编程？
 
 并发编程的优缺点：https://juejin.im/post/5ae6c3ef6fb9a07ab508ac85
 
@@ -157,11 +157,9 @@ https://blog.csdn.net/marvel__dead/article/details/69220153
 
 方法区是线程安全的??
 
-技术架构
+##### 技术架构
 https://github.com/davideuler/architecture.of.internet-product
 
-
-面试总结---2018年5月9号
 ### 58
 一面：handler的底层实现原理 ： https://blog.csdn.net/luoshengyang/article/details/6817933
           不同线程间怎么通过handler发送消息
