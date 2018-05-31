@@ -130,11 +130,16 @@ http://blog.csdn.net/qq_27540131/article/details/74938234
 锁？  https://blog.csdn.net/zqz_zqz/article/details/70233767
          https://blog.csdn.net/yanyan19880509/article/details/52345422
          https://www.cnblogs.com/-new/p/7256297.html
+         
 Semaphore：    https://blog.csdn.net/qq_19431333/article/details/70212663
+
 抽象的队列式的同步器 AQS：https://www.cnblogs.com/daydaynobug/p/6752837.html
+
 Exchanger的工作原理及实例：https://blog.csdn.net/carson0408/article/details/79477280
                          http://ifeve.com/concurrency-exchanger/    
+                         
 CountDownLatch解析 ： https://blog.csdn.net/yanyan19880509/article/details/52349056
+
 CyclicBarrier：https://www.jianshu.com/p/ccf218dfcfa6
 
 
@@ -144,6 +149,7 @@ classloader？https://blog.csdn.net/briblue/article/details/54973413
                         http://www.iteye.com/topic/652440
 
 彻底理解synchronized：https://juejin.im/post/5ae6dc04f265da0ba351d3ff
+
 锁膨胀：https://www.cnblogs.com/dsj2016/p/5714921.html
 
 Java内存模型？
