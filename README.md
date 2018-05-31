@@ -10,6 +10,8 @@
 #### 知识梳理：
 https://juejin.im/post/587dbaf9570c3522010e400e?utm_source=wechat
 
+#### 学习资料：
+https://blog.csdn.net/mwq384807683/article/details/70795881
 
 ### 陌陌—架构组
 
@@ -59,10 +61,6 @@ https://zh.wikipedia.org/zh-cn/SPDY
 Volley的请求队列：PriorityBlockingQueue : 
 
 okhttp的请求队列：SynchronousQueue :  
-
-#### 学习资料：
-https://blog.csdn.net/mwq384807683/article/details/70795881
-
 
 ##### 如何定位一个不能复现的anr
 
