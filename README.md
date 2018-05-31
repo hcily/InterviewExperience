@@ -21,52 +21,52 @@ https://github.com/davideuler/architecture.of.internet-product
 
 ##### 数据库：怎样快速插入1万条数据，看过GreenDao的源码吗
 
-加快数据库存储
+> 加快数据库存储
 一次插入多条，显示开启事务，关闭读、写同步，执行准备（类似存储过程，Stored Procedure），索引
 https://blog.csdn.net/majiakun1/article/details/46607163
 
-GreenDao
+> GreenDao
 https://blog.csdn.net/zhangjiaofa/article/details/49134341
 提供的功能：加密，RxJava1，升级，注解（生成dao），异步封装（操作合并，减少事务的开关），
 锁（IdentityScope）?   CursorWindow ?
 速度快的原因：Transaction（事务），对SQLiteStatement进行缓存
 
-对象关系映射（英语：(Object Relational Mapping，简称ORM，或O/RM，或O/R mapping）
+> 对象关系映射（英语：(Object Relational Mapping，简称ORM，或O/RM，或O/R mapping）
 
 
 ##### 图片框架：Universal ImageLoader（看过源码吗）、glide（为什么用它，好处在哪里）、fresco
 
-UIL源码解析：下载进度、缓存策略、下载、显示、线程池
-https://blog.csdn.net/maplejaw_/article/details/51684130
+> UIL源码解析：下载进度、缓存策略、下载、显示、线程池
+> https://blog.csdn.net/maplejaw_/article/details/51684130
 
-HashMap : https://blog.csdn.net/justloveyou_/article/details/62893086
+> HashMap : https://blog.csdn.net/justloveyou_/article/details/62893086
 
-LinkedHashMap : https://blog.csdn.net/justloveyou_/article/details/71713781
+> LinkedHashMap : https://blog.csdn.net/justloveyou_/article/details/71713781
 
-LruMemoryCache : 
+> LruMemoryCache : 
 
-Glide源码：
+> Glide源码：
 https://blog.csdn.net/yulyu/article/details/60331803
 
 
 ##### 网络框架：volley（为什么不适用于大文件传输）、okhttp3（为什么用它，好在哪里，看过源码吗）
 
-Volley：默认开启4个网络请求线程，返回的结果存储在内存中（大文件传输会长时间占用线程，并且可能由于内存占用过多导致OOM）
+> Volley：默认开启4个网络请求线程，返回的结果存储在内存中（大文件传输会长时间占用线程，并且可能由于内存占用过多导致OOM）
 
-okhttp3 ：https://yq.aliyun.com/articles/78104?t=t1
+> okhttp3 ：https://yq.aliyun.com/articles/78104?t=t1
         : https://blog.csdn.net/mwq384807683/article/details/71173442?locationNum=8&fps=1
 
-okio：
+> okio：
 
-https?  http2?   SPDY? 
+> https?  http2?   SPDY? 
 https://zh.wikipedia.org/zh-cn/HTTPS
 https://zh.wikipedia.org/zh-cn/HTTP/2
 https://zh.wikipedia.org/zh-cn/SPDY
 
-如何实现请求的优先级（高德）
+> 如何实现请求的优先级（高德）
 Volley的请求队列：PriorityBlockingQueue : 
 
-okhttp的请求队列：SynchronousQueue :  
+> okhttp的请求队列：SynchronousQueue :  
 
 ##### 如何定位一个不能复现的anr
 
