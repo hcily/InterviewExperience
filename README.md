@@ -190,7 +190,7 @@ https://blog.csdn.net/jxxfzgy/article/details/44773797
 + 循环调用requestLayout或者invalidate，每次调用都会触发onMeasure\onLayout或者onDraw吗？
 + View的三次measure,两次layout和一次draw https://blog.csdn.net/u012422440/article/details/52972825
 + Android的anr的内部原理：https://www.cnblogs.com/android-blogs/p/5718302.html
-+ Watchdog：
++ Watchdog：https://blog.csdn.net/kc58236582/article/details/78480640
 
 + HashMap怎么避免key冲突：    
 + 红黑树：https://blog.csdn.net/v_july_v/article/details/6105630
@@ -339,6 +339,7 @@ https://blog.csdn.net/freelander_j/article/details/50374900
 + Looper在访问空队列时的等待原理（机制是什么）
 + 自旋锁的机制
 + 多线程问题：最多只能有三个线程同时访问一个方法
++ handler的message为什么不用new
 
 #### 三面：
 + 了解OpenGL吗
