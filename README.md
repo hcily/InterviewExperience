@@ -13,6 +13,10 @@ https://juejin.im/post/587dbaf9570c3522010e400e?utm_source=wechat
 #### 学习资料：
 https://blog.csdn.net/mwq384807683/article/details/70795881
 
+##### 技术架构
+https://github.com/davideuler/architecture.of.internet-product
+
+
 ### 陌陌—架构组
 
 ##### 数据库：怎样快速插入1万条数据，看过GreenDao的源码吗
@@ -36,7 +40,9 @@ UIL源码解析：下载进度、缓存策略、下载、显示、线程池
 https://blog.csdn.net/maplejaw_/article/details/51684130
 
 HashMap : https://blog.csdn.net/justloveyou_/article/details/62893086
+
 LinkedHashMap : https://blog.csdn.net/justloveyou_/article/details/71713781
+
 LruMemoryCache : 
 
 Glide源码：
@@ -64,55 +70,55 @@ okhttp的请求队列：SynchronousQueue :
 
 ##### 如何定位一个不能复现的anr
 
-traces.txt文件  https://www.jianshu.com/p/f406d535a8bc
++ traces.txt文件  https://www.jianshu.com/p/f406d535a8bc
 https://blog.csdn.net/jiangguangchao/article/details/54908477
 
-BlockCanary源码：
++ BlockCanary源码：
 https://blog.csdn.net/bazhongren/article/details/51125113
 
-LeakCanary 源码：
++ LeakCanary 源码：
 https://blog.csdn.net/cloud_huan/article/details/53081120
 
-Reference : https://www.cnblogs.com/jabnih/p/6580665.html
-ReferenceQueue : https://www.cnblogs.com/dreamroute/p/5029899.html
++ Reference : https://www.cnblogs.com/jabnih/p/6580665.html
++ ReferenceQueue : https://www.cnblogs.com/dreamroute/p/5029899.html
 
-iTestin工具
++ iTestin工具
 
 
-同一张图片，放在hdpi、xhdpi中，分别占用的内存是多少
+##### 同一张图片，放在hdpi、xhdpi中，分别占用的内存是多少
 
 https://blog.csdn.net/guolin_blog/article/details/50727753
 
-binder的通信机制？看过源码吗？
+##### binder的通信机制？看过源码吗？
 
-Lopper源码：https://blog.csdn.net/a34140974/article/details/50638089
+##### Lopper源码：https://blog.csdn.net/a34140974/article/details/50638089
 
-哪些情况造成内存泄漏，内存溢出怎么处理？
+##### 哪些情况造成内存泄漏，内存溢出怎么处理？
 
 
-activity的生命周期是如何实现的？Fragment呢？（高德）
+##### activity的生命周期是如何实现的？Fragment呢？（高德）
 
-activity的生命周期：
++ activity的生命周期：
 http://weishu.me/2016/03/21/understand-plugin-framework-activity-management/
 https://blog.csdn.net/yangxi_pekin/article/details/19977429
 
-Fragment的生命周期：
++ Fragment的生命周期：
 https://blog.csdn.net/jxxfzgy/article/details/44773797
 
-如何防止内存抖动（高德）？？？
++ 如何防止内存抖动（高德）？？？
 
-如何防止MVP的P功能过多，怎么拆分？？？（高德）
+##### 如何防止MVP的P功能过多，怎么拆分？？？（高德）
 
-如何判断是主线程（高德）
+##### 如何判断是主线程（高德）
 ：https://blog.csdn.net/clevergump/article/details/50995612
 
-Git为什么能实现分布式管理（高德）
+##### Git为什么能实现分布式管理（高德）
 
 
-Rxjava的线程切换是如何实现的（高德）
+##### Rxjava的线程切换是如何实现的（高德）
 https://blog.csdn.net/chenkai19920410/article/details/52515771
 
-ThreadLocal的内部机制？
+##### ThreadLocal的内部机制？
 
 ##### App安装、启动流程？
 Android deeplink内部实现机制？
@@ -121,36 +127,36 @@ http://blog.csdn.net/qq_27540131/article/details/74938234
 
 ##### Java线程，并发编程？
 
-并发编程的优缺点：https://juejin.im/post/5ae6c3ef6fb9a07ab508ac85
++ 并发编程的优缺点：https://juejin.im/post/5ae6c3ef6fb9a07ab508ac85
 
-线程状态转换：https://juejin.im/post/5ae6cf7a518825670960fcc2
++ 线程状态转换：https://juejin.im/post/5ae6cf7a518825670960fcc2
 
-锁？  https://blog.csdn.net/zqz_zqz/article/details/70233767
++ 锁？  https://blog.csdn.net/zqz_zqz/article/details/70233767
          https://blog.csdn.net/yanyan19880509/article/details/52345422
          https://www.cnblogs.com/-new/p/7256297.html
          
-Semaphore：    https://blog.csdn.net/qq_19431333/article/details/70212663
++ Semaphore：    https://blog.csdn.net/qq_19431333/article/details/70212663
 
-抽象的队列式的同步器 AQS：https://www.cnblogs.com/daydaynobug/p/6752837.html
++ 抽象的队列式的同步器 AQS：https://www.cnblogs.com/daydaynobug/p/6752837.html
 
-Exchanger的工作原理及实例：https://blog.csdn.net/carson0408/article/details/79477280
++ Exchanger的工作原理及实例：https://blog.csdn.net/carson0408/article/details/79477280
                          http://ifeve.com/concurrency-exchanger/    
                          
-CountDownLatch解析 ： https://blog.csdn.net/yanyan19880509/article/details/52349056
++ CountDownLatch解析 ： https://blog.csdn.net/yanyan19880509/article/details/52349056
 
-CyclicBarrier：https://www.jianshu.com/p/ccf218dfcfa6
++ CyclicBarrier：https://www.jianshu.com/p/ccf218dfcfa6
 
 
-classloader？https://blog.csdn.net/briblue/article/details/54973413
++ classloader？https://blog.csdn.net/briblue/article/details/54973413
 
-深入剖析volatile关键字 : https://www.cnblogs.com/dolphin0520/p/3920373.html
++ 深入剖析volatile关键字 : https://www.cnblogs.com/dolphin0520/p/3920373.html
                         http://www.iteye.com/topic/652440
 
-彻底理解synchronized：https://juejin.im/post/5ae6dc04f265da0ba351d3ff
++ 彻底理解synchronized：https://juejin.im/post/5ae6dc04f265da0ba351d3ff
 
-锁膨胀：https://www.cnblogs.com/dsj2016/p/5714921.html
++ 锁膨胀：https://www.cnblogs.com/dsj2016/p/5714921.html
 
-Java内存模型？
+##### Java内存模型？
 https://blog.csdn.net/u012152619/article/details/46968883
 
 
@@ -159,40 +165,42 @@ https://blog.csdn.net/u012152619/article/details/46968883
 https://blog.csdn.net/marvel__dead/article/details/69220153
 
 
-方法区是线程安全的??
-
-##### 技术架构
-https://github.com/davideuler/architecture.of.internet-product
+##### 方法区是线程安全的??
 
 ### 58
-一面：handler的底层实现原理 ： https://blog.csdn.net/luoshengyang/article/details/6817933
-          不同线程间怎么通过handler发送消息
-          线程间的通信
-          Android屏幕的刷新机制（16ms，绘制）：https://www.cnblogs.com/tiger-wang-ms/p/6592189.html
+#### 一面：
+     + handler的底层实现原理 ： https://blog.csdn.net/luoshengyang/article/details/6817933
+     + 不同线程间怎么通过handler发送消息
+     + 线程间的通信
+     + Android屏幕的刷新机制（16ms，绘制）：https://www.cnblogs.com/tiger-wang-ms/p/6592189.html
                                             performTraversals :  https://www.jianshu.com/p/a65861e946cb
-          Vsync垂直信号\Choreographer
-     循环调用requestLayout或者invalidate，每次调用都会触发onMeasure\onLayout或者onDraw吗？
-     Android的anr的内部原理：https://www.cnblogs.com/android-blogs/p/5718302.html
-     Watchdog：
+     + Vsync垂直信号\Choreographer
+     + 循环调用requestLayout或者invalidate，每次调用都会触发onMeasure\onLayout或者onDraw吗？
+     + Android的anr的内部原理：https://www.cnblogs.com/android-blogs/p/5718302.html
+     + Watchdog：
 
-     HashMap怎么避免key冲突：    
-     红黑树：https://blog.csdn.net/v_july_v/article/details/6105630
+     + HashMap怎么避免key冲突：    
+     + 红黑树：https://blog.csdn.net/v_july_v/article/details/6105630
             
-二面：看过哪些开源库，详细说一下图片加载库的设计模式
+#### 二面：
+     + 看过哪些开源库，详细说一下图片加载库的设计模式
             
 
 ### 爱奇艺
-笔试：横竖屏切换时activity的生命周期：https://blog.csdn.net/wenzhi20102321/article/details/68941263
-           手势分发：https://www.cnblogs.com/Jackwen/p/5239035.html
-           快速排序：
-           provider怎样共享数据：https://blog.csdn.net/luoshengyang/article/details/6946067
+#### 笔试：
+     + 横竖屏切换时activity的生命周期：https://blog.csdn.net/wenzhi20102321/article/details/68941263
+     + 手势分发：https://www.cnblogs.com/Jackwen/p/5239035.html
+     + 快速排序：
+     + provider怎样共享数据：https://blog.csdn.net/luoshengyang/article/details/6946067
                               ：https://blog.csdn.net/u011240877/article/details/72848608
 
-一面：框架设计，怎么去封装图片库，能用到什么设计模式；
-           线程池实现原理（核心线程数，线程最大数）：
-           SurfaceView和TextureView的区别：（SurfaceView源码浅析）https://blog.csdn.net/luoshengyang/article/details/8661317/
-                                                                https://www.cnblogs.com/wytiger/p/5693569.html
-                                                       （对比） https://blog.csdn.net/hejjunlin/article/details/58582919
+#### 一面：
+           + 框架设计，怎么去封装图片库，能用到什么设计模式；
+           + 线程池实现原理（核心线程数，线程最大数）：
+           + SurfaceView和TextureView的区别：
+           （SurfaceView源码浅析）https://blog.csdn.net/luoshengyang/article/details/8661317/
+                                 https://www.cnblogs.com/wytiger/p/5693569.html
+                               （对比） https://blog.csdn.net/hejjunlin/article/details/58582919
                                                                     
 
 二面：优势是什么，缺点是什么，职业规划是什么，为什么离开现在的公司
