@@ -188,6 +188,7 @@ https://blog.csdn.net/jxxfzgy/article/details/44773797
 + performTraversals :  https://www.jianshu.com/p/a65861e946cb
 + Vsync垂直信号\Choreographer
 + 循环调用requestLayout或者invalidate，每次调用都会触发onMeasure\onLayout或者onDraw吗？
++ View的三次measure,两次layout和一次draw https://blog.csdn.net/u012422440/article/details/52972825
 + Android的anr的内部原理：https://www.cnblogs.com/android-blogs/p/5718302.html
 + Watchdog：
 
