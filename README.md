@@ -13,8 +13,11 @@ https://juejin.im/post/587dbaf9570c3522010e400e?utm_source=wechat
 #### 学习资料：
 https://blog.csdn.net/mwq384807683/article/details/70795881
 
-##### 技术架构
+#### 技术架构
 https://github.com/davideuler/architecture.of.internet-product
+
+***
+#### [陌陌](#陌陌—架构组)
 
 ***
 
