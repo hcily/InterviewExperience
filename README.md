@@ -16,6 +16,7 @@ https://blog.csdn.net/mwq384807683/article/details/70795881
 ##### 技术架构
 https://github.com/davideuler/architecture.of.internet-product
 
+***
 
 ### 陌陌—架构组
 
@@ -338,11 +339,9 @@ https://blog.csdn.net/freelander_j/article/details/50374900
 + 今后的规划
           
 
+***
 
-
-### 高德—顺风车
-
-* 阿里用人标准：聪明、皮实、乐观、自省、谦卑
+### 阿里用人标准：聪明、皮实、乐观、自省、谦卑
 
 * 聪明：
 你的老板有没有不采纳你建议的时候?
