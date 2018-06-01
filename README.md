@@ -211,9 +211,12 @@ https://blog.csdn.net/jxxfzgy/article/details/44773797
 + 框架设计，怎么去封装图片库，能用到什么设计模式；
 + 线程池实现原理（核心线程数，线程最大数）：
 + SurfaceView和TextureView的区别：
->（SurfaceView源码浅析）https://blog.csdn.net/luoshengyang/article/details/8661317/
->                      https://www.cnblogs.com/wytiger/p/5693569.html
->                     （对比） https://blog.csdn.net/hejjunlin/article/details/58582919
+>（SurfaceView源码浅析）
+> https://blog.csdn.net/luoshengyang/article/details/8661317/
+>
+> https://www.cnblogs.com/wytiger/p/5693569.html
+>
+> （对比） https://blog.csdn.net/hejjunlin/article/details/58582919
                                                                     
 
 #### 二面：优势是什么，缺点是什么，职业规划是什么，为什么离开现在的公司
