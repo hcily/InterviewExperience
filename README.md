@@ -182,6 +182,7 @@ https://blog.csdn.net/jxxfzgy/article/details/44773797
 ### 58
 #### 一面：
 + handler的底层实现原理 ： https://blog.csdn.net/luoshengyang/article/details/6817933
++ MessageQueue的同步障碍机制：https://blog.csdn.net/tear2210/article/details/49815181
 + 不同线程间怎么通过handler发送消息
 + 线程间的通信
 + Android屏幕的刷新机制（16ms，绘制）：https://www.cnblogs.com/tiger-wang-ms/p/6592189.html
