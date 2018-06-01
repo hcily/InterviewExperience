@@ -244,8 +244,11 @@ https://blog.csdn.net/jxxfzgy/article/details/44773797
 + String的深入解析：https://www.cnblogs.com/xiaoxi/p/6036701.html
 + Parcelable和Serializable浅析
 > ：https://blog.csdn.net/javazejian/article/details/52665164
+
 > :  https://www.cnblogs.com/redcreen/articles/1955307.html
+
 > ：https://blog.csdn.net/caowenbin/article/details/6532217
+
 + Java transient使用（ 涉及Externalizable）： https://www.cnblogs.com/lanxuezaipiao/p/3369962.html
 
 #### 一面：
