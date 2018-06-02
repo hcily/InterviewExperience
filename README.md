@@ -178,6 +178,8 @@ https://blog.csdn.net/jxxfzgy/article/details/44773797
 
 > https://blog.csdn.net/marvel__dead/article/details/69220153
 
+##### 类的加载过程
+> https://blog.csdn.net/eff666/article/details/52203406
 
 ##### 方法区是线程安全的??
 
