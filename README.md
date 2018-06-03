@@ -352,6 +352,8 @@ https://blog.csdn.net/freelander_j/article/details/50374900
 + 自旋锁的机制
 + 多线程问题：最多只能有三个线程同时访问一个方法
 + handler的message为什么不用new
++ WebView的内存泄露
++ Js与native的交互、JsInterface的漏洞问题
 
 #### 三面：
 + 了解OpenGL吗
