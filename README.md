@@ -135,6 +135,10 @@ https://blog.csdn.net/jxxfzgy/article/details/44773797
 ##### ThreadLocal的内部机制？
 
 ##### App安装、启动流程？
+
+##### APK打包流程
+> https://juejin.im/entry/58b78d1b61ff4b006cd47e5b
+
 ##### Android deeplink内部实现机制？
 > http://blog.csdn.net/qq_27540131/article/details/74938234
 
