@@ -362,7 +362,7 @@ https://blog.csdn.net/freelander_j/article/details/50374900
 
 #### HR： 
 + 自己的优势是什么
-+ 为什么离开
++ 为什么离开：公司战略调整、技术中心偏向上海
 + 今后的规划
           
 
