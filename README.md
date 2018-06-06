@@ -381,7 +381,8 @@ https://blog.csdn.net/freelander_j/article/details/50374900
 #### 二面
 + apk的启动流程
 + 插件化
-+ ijkplayer的编解码
++ ijkplayer的编解码 
+> https://blog.csdn.net/xipiaoyouzi/article/details/74280170
 
 #### HR
 + 为什么离职、规划
